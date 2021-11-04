@@ -2,7 +2,7 @@
 layout: post
 title: Splunk ES Assets and Inventory, Getting Started
 published: true
-date: 2020-03-15 19:19:00
+date: 2021-11-08 12:00:00
 category: Splunk ES
 tags: Splunk ES asset-inventory
 ---
