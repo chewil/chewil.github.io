@@ -30,7 +30,7 @@ twitter_username: wche
 github_username:  chewil
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
