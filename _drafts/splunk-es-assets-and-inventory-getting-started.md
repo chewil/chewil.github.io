@@ -3,8 +3,8 @@ layout: post
 title: Splunk ES Assets and Inventory, Getting Started
 published: true
 date: 2021-11-08 12:00:00
-category: Splunk ES
-tags: Splunk ES asset-inventory
+category: Splunk
+tags: "Splunk ES" asset-inventory admin
 ---
 *Opinions expressed are solely my own and do not express the views or opinions of my employer, of Splunk, nor anyone else...*  
 
