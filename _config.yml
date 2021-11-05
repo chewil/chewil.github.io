@@ -30,7 +30,8 @@ twitter_username: wche
 github_username:  chewil
 
 # Build settings
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
