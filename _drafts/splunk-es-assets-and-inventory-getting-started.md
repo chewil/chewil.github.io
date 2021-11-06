@@ -21,6 +21,13 @@ For user accounts, the identity enrichment lookups can return the users's full n
 
 So having a near complete and current asset and identity table is crucial from the SOC's perspective.  Hopefully there is enough useful information in here to help a Splunk ES administator setup and maintain their asset and identity table. 
 
+# Identify Data Sources
+The definitive source for ES Assets and Identity is the "[Add asset and identity data to Splunk Enterprise Security](https://docs.splunk.com/Documentation/ES/latest/Admin/Addassetandidentitydata)" section of the official **Splunk Enterprise Security** document.
+
+**Identity**: This is a table of users.  Documenation says to use the `|ldapquery` command to pull this data out of AD, but querying AD via LDAP can be extremely slow for a large enterprise.  The better way is if you have the "Splunk Supporting Add-on for Active Directory" app deployed to your domain controllers.  Enable ActiveDirectory sourcetype collection.  The results is an index of all AD objects that you can run an optimizd query for the same fields available via `ldapquery` and you can run thes ame search many times a day to get only the deltas. 
+
+ Best source for this is the Active Directory.  Follow the Splunk documentation on setting up ldapconcan this data can be generated either using a LDAP call, or, if you have configure your DC to send ActiveDirectory data, search in index=msad.  The difference between the LDAP and the index search is depended on the number of user objects, LDAP may take longer to run.  Index search can be quick because you can search the index in batches and done in batches throughout the day.
+
 # Lookup Tables (KVStore)
 
 1- `asset_lookup_by_str` - A list of assets.  This should be a list of all known networking capable hardware.  This include all company owned, vendor deployed and user BYOD devices that could be connected to your managed networks or VPN.
