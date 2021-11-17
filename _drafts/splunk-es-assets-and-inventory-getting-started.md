@@ -18,10 +18,7 @@ The definitive source for managing ES Assets and Identity is the "[Add asset and
 
 **Identity**: This is a table of users.  Documenation says to use the `|ldapquery` command to pull this data out of AD, but querying AD via LDAP can be extremely slow for a large enterprise.  
 
-If you have the "**Splunk Supporting Add-on for Active Directory**" app from [splunk base](https://splunkbase.splunk.com/app/742/) deployed to your domain controllers, enable the ActiveDirectory sourcetype collection.  It will periodically poll the AD for recently changed objects and forwrd them to the indexers.  If the index is named "`msad`" then you can just query that index to update the identity table.
-
-
- Best source for this is the Active Directory.  Follow the Splunk documentation on setting up ldapconcan this data can be generated either using a LDAP call, or, if you have configure your DC to send ActiveDirectory data, search in index=msad.  The difference between the LDAP and the index search is depended on the number of user objects, LDAP may take longer to run.  Index search can be quick because you can search the index in batches and done in batches throughout the day.
+If you have the "**Splunk Supporting Add-on for Active Directory**" app from [splunk base](https://splunkbase.splunk.com/app/742/) deployed to your domain controllers, enable the ActiveDirectory sourcetype collection.  It will periodically poll the AD for recently changed objects and forward them to Splunk.  If the index is named "`msad`" then you can just query that index to update the identity table.
 
 # Lookup Tables (KVStore)
 
