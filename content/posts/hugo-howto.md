@@ -170,10 +170,13 @@ cd ..
 
 Create a deploy script:
 
+```bash
 nano deploy.sh
+```
 
 Paste:
 
+```bash
 #!/bin/bash
 
 # Build the site
@@ -189,44 +192,57 @@ git push origin main
 
 # Return to root
 cd ..
+```
 
 Make it executable:
 
+```bash
 chmod +x deploy.sh
+```
 
 Run it:
 
+```bash
 ./deploy.sh
+```
 
-🌍 Step 9: Enable GitHub Pages
+## 🌍 Step 9: Enable GitHub Pages
 
-    Go to myblog-pages on GitHub.
+1. Go to `myblog-pages` on GitHub.
 
-    Navigate to Settings → Pages.
+1. Navigate to **Settings → Pages.**
 
-    Select main branch as source.
+1. Select `main` branch as source.
 
-    Save.
+1. Save.
 
 Your site will be live at:
 
+```
 https://yourusername.github.io/myblog-pages/
+```
 
-✅ Done!
+## ✅ Done!
 
 You now have a working Hugo site running on WSL with automatic publishing to GitHub Pages. You can update your content, run ./deploy.sh, and your site will update online.
-🛠️ Bonus Tips
 
-    Add a custom domain in GitHub Pages settings
+---
 
-    Use GitHub Actions for automatic deploys
+## 🛠️ Bonus Tips
 
-    Add a .gitignore to the main repo:
+- Add a custom domain in GitHub Pages settings
 
+- Use GitHub Actions for automatic deploys
+
+- Add a `.gitignore` file to the main repo:
+
+```
 /public
 /resources
+```
 
-💬 Final Thoughts
+---
+## 💬 Final Thoughts
 
 Running Hugo with WSL gives you the power of Linux development on Windows. It’s fast, clean, and deploys easily via GitHub Pages — a perfect stack for blogs, docs, and portfolios.
 
