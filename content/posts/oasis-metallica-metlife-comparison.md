@@ -5,44 +5,86 @@ date: 2025-09-06
 
 ## A Night That Felt Like 1996 (But Sharper)
 
-When Oasis walked on stage at MetLife Stadium last weekend, it was like time folded in on itself. For two nights — **August 31** and **September 1, 2025** — the Gallagher brothers and company reminded a sold-out crowd why they once ruled the airwaves. But this wasn’t just nostalgia. The show had the punch, swagger, and even a hint of reconciliation that made it feel vital in the present tense.
+When Oasis walked on stage at MetLife Stadium last weekend, it felt as if time folded in on itself. Over two nights—**August 31** and **September 1, 2025**—Liam and Noel Gallagher and their band reminded a sea of fans why they once ruled Britpop. Yet, this wasn’t just a trip down memory lane—it was alive, urgent, and full of conviction.
 
-The setlist was long and generous — **23 songs over just about two hours**. The pacing was immaculate: heavy hitters up front, mid-set gems like *Talk Tonight* and *Acquiesce*, and then the knockout blow of *Wonderwall*, *Don’t Look Back in Anger*, and *Champagne Supernova* to close. Fireworks cracked overhead as the last notes rang out, and for a moment 80,000 people were singing as one.
+The pacing was spot-on. After an explosive start with *“We Love You”* and *“Fuckin’ in the Bushes,”* the band powered through 23 songs in just about two hours. Tracks like *“Talk Tonight,”* *“Half the World Away,”* and *“Little by Little”* gave space for honest emotion amid the ring of anthems like *“Wonderwall”* and *“Don’t Look Back in Anger.”* Fireworks during *“Champagne Supernova”* lit the sky—and the crowd—as the night hit its high.
 
-The most unexpected part? Watching Liam and Noel share a quick embrace mid-show. It wasn’t choreographed, just natural — and the roar from the stands was almost louder than the band.
+A real moment: Liam and Noel exchanging a spontaneous hug mid-set. It wasn’t rehearsed—it was a revelation that echoed right back at them from a roaring stadium.
 
 ---
 
 ## Watch the Highlights
 
-Here are three of the best fan-shot videos that capture the energy of those nights:
-
 - [Oasis – Full Show, Sept 1, 2025 (MetLife Stadium)](https://www.youtube.com/watch?v=YyzY4XAF1BI&utm_source=chatgpt.com)  
 - [Oasis – Full Show, Aug 31, 2025 (MetLife Stadium)](https://www.youtube.com/watch?v=VbbeW6qCG80&utm_source=chatgpt.com)  
 - ["Champagne Supernova" – MetLife Stadium, Sept 1, 2025](https://www.youtube.com/watch?v=Lo47l0jsG-Q&utm_source=chatgpt.com)  
 
-If you only have time for one, the *Champagne Supernova* clip is the one — fireworks, voices in unison, and a band clearly enjoying themselves.
+If you can only watch one, start with the *Champagne Supernova* clip—there’s clarity in how the fireworks, the crowd, and the band’s energy all converge.
 
 ---
 
-## Oasis vs. Metallica: Same Stage, Different Worlds
+## Setlists at a Glance
 
-It’s impossible not to compare Oasis’s recent return to **Metallica’s M72 Tour stop at MetLife in 2023**. Both drew enormous crowds, but the shows couldn’t have been more different in structure and vibe.
+### Oasis – MetLife Stadium (Night One and Two)  
+Here’s a near-complete snapshot drawn from verified sources and setlist archives:
 
-| Category            | Oasis (2025)                                 | Metallica (2023)                            |
-|---------------------|-----------------------------------------------|---------------------------------------------|
-| **Play Time**       | ~120 minutes                                  | ~150 minutes                                |
-| **Songs Played**    | 23 tracks (shorter, punchier set)             | ~16 tracks (longer jams, extended solos)    |
-| **Fan Energy**      | Mass sing-alongs, arms around strangers, emotional nostalgia | Mosh pits, circle pits, adrenaline and pyro |
-| **Finale**          | Fireworks during *Champagne Supernova*        | “Enter Sandman” with flames and explosions  |
+**Opening:**  
+1. We Love You  
+2. Fuckin’ in the Bushes  
+3. Hello  
+4. Acquiesce  
+5. Morning Glory  
+6. Some Might Say  
+7. Bring It On Down  
+8. Cigarettes & Alcohol  
+9. Fade Away  
+10. Supersonic  
+11. Roll With It  
+12. Talk Tonight  
 
-**Takeaway:**  
-Oasis brought intimacy to a massive stadium — voices carrying the weight of the show. Metallica brought scale and power — riffs shaking the concrete. One leaned into catharsis, the other into sheer spectacle. Both worked, just for different kinds of catharsis.
+And reports confirm the full **23-song lineup**, including *Wonderwall*, *Don’t Look Back in Anger*, *Champagne Supernova*, and crowd-favorites like *Live Forever*, *Stand By Me*—all fueling the emotional arc of the evening :contentReference[oaicite:0]{index=0}.
+
+### Metallica – MetLife Stadium (M72 Tour, August 6, 2023)  
+The metal giants took a very different structural approach:
+
+**Night Two (Aug 6, 2023)** included:  
+- Whiplash  
+- For Whom the Bell Tolls  
+- Ride the Lightning  
+- The Memory Remains  
+- Lux Æterna  
+- Too Far Gone? (live debut)  
+- Welcome Home (Sanitarium)  
+- You Must Burn!  
+- The Call of Ktulu  
+- The Unforgiven  
+- Wherever I May Roam  
+- Moth Into Flame  
+- Blackened  
+- Whiskey in the Jar  
+- One  
+- Enter Sandman :contentReference[oaicite:1]{index=1}.
+
+And on Night One, they eclipsed 16 songs with explosive staples like *Creeping Death*, *Harvester of Sorrow*, *Fade to Black*, *Nothing Else Matters*, *Master of Puppets* and more :contentReference[oaicite:2]{index=2}.
 
 ---
 
-## Closing Thoughts
+## Oasis vs. Metallica: Same Stage, Two Visions
 
-Walking out of MetLife after Oasis, the mood felt communal, almost celebratory — as if the long-awaited reunion had given fans something bigger than just a concert. Where Metallica’s show was about dominance, Oasis’s was about connection.  
+| Feature            | **Oasis (Live ’25 – 2025)**            | **Metallica (M72 Tour – 2023)**              |
+|--------------------|----------------------------------------|---------------------------------------------|
+| **Song Count**     | ~23 songs                              | ~16 songs                                   |
+| **Set Dynamics**   | Tight, singalong-rich, emotionally resonant | Extended, riff-heavy, classic-driven        |
+| **Mood & Flow**    | Nostalgic and cathartic                 | Power-charged and relentless                |
+| **Closing Impact** | Fireworks with *Champagne Supernova*   | Pyrotechnic fury into *Enter Sandman*       |
 
-If this is what the Live ’25 tour looks like, Oasis aren’t just back — they’re rewriting what a reunion can feel like.
+Oasis’s show felt like a communal embrace—soft yet profound. Metallica’s felt like a full-barrelled sonic assault that left the stadium vibrating long after the last chord.
+
+---
+
+## Final Thoughts
+
+Walking out of MetLife after Oasis, you didn’t just feel you attended a concert—you felt part of a moment, as though the band had asked, *“Remember who we were?”* and the crowd answered, *“Yes—and we love that you’re still that.”*
+
+If you’d like, I can refine any section further—just say where you'd like to add more of that human touch, or if you'd like setlist breakdowns for other shows, fan quotes, or a behind-the-scenes peek.
+::contentReference[oaicite:3]{index=3}
