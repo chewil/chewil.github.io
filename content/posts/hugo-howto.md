@@ -112,3 +112,122 @@ wsl --set-version Ubuntu 2
     ```
 
 🚗 Step 5: Run the Hugo Server Locally
+
+Start the Hugo development server:
+
+```bash
+hugo server -D
+```
+
+Visit: http://localhost:1313 in your browser.
+
+## 🐱 Step 6: Set Up GitHub Repositories
+
+You'll need two GitHub repos:
+
+Option 1: One repo (deploy to `gh-pages` branch)
+
+- `myblog` (main branch: source code, deploys to `gh-pages`)
+
+Option 2: Two repos (recommended)
+
+- `myblog` – Hugo source code
+- `myblog-pages` – contains the built site (`public/` folder)
+
+## ☁️ Step 7: Configure GitHub Deployment
+
+### A. Create Repositories on GitHub
+Create two repositories:
+
+- `myblog`
+- `myblog-pages`
+
+### B. Link Remotes
+
+From your Hugo project root:
+
+```bash
+git remote add origin git@github.com:yourusername/myblog.git
+git add .
+git commit -m "Initial Hugo site"
+git push -u origin main
+```
+
+Deploy the public site:
+
+```
+cd public
+git init
+git remote add origin git@github.com:yourusername/myblog-pages.git
+git branch -M main
+git add .
+git commit -m "Deploying site"
+git push -u origin main
+cd ..
+```
+
+## ⚙️ Step 8: Automate Deployment
+
+Create a deploy script:
+
+nano deploy.sh
+
+Paste:
+
+#!/bin/bash
+
+# Build the site
+hugo
+
+# Go to public directory
+cd public
+
+# Push to GitHub Pages repo
+git add .
+git commit -m "Deploying site $(date)"
+git push origin main
+
+# Return to root
+cd ..
+
+Make it executable:
+
+chmod +x deploy.sh
+
+Run it:
+
+./deploy.sh
+
+🌍 Step 9: Enable GitHub Pages
+
+    Go to myblog-pages on GitHub.
+
+    Navigate to Settings → Pages.
+
+    Select main branch as source.
+
+    Save.
+
+Your site will be live at:
+
+https://yourusername.github.io/myblog-pages/
+
+✅ Done!
+
+You now have a working Hugo site running on WSL with automatic publishing to GitHub Pages. You can update your content, run ./deploy.sh, and your site will update online.
+🛠️ Bonus Tips
+
+    Add a custom domain in GitHub Pages settings
+
+    Use GitHub Actions for automatic deploys
+
+    Add a .gitignore to the main repo:
+
+/public
+/resources
+
+💬 Final Thoughts
+
+Running Hugo with WSL gives you the power of Linux development on Windows. It’s fast, clean, and deploys easily via GitHub Pages — a perfect stack for blogs, docs, and portfolios.
+
+Happy building! 🚀
