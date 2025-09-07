@@ -1,6 +1,7 @@
 ---
 title: "Oasis at MetLife Stadium: A Triumphant Return"
 date: 2025-09-06
+draft: false
 ---
 
 ## A Night That Felt Like 1996 (But Sharper)
@@ -42,7 +43,7 @@ Here’s a near-complete snapshot drawn from verified sources and setlist archiv
 11. Roll With It  
 12. Talk Tonight  
 
-And reports confirm the full **23-song lineup**, including *Wonderwall*, *Don’t Look Back in Anger*, *Champagne Supernova*, and crowd-favorites like *Live Forever*, *Stand By Me*—all fueling the emotional arc of the evening :contentReference[oaicite:0]{index=0}.
+And reports confirm the full **23-song lineup**, including *Wonderwall*, *Don’t Look Back in Anger*, *Champagne Supernova*, and crowd-favorites like *Live Forever*, *Stand By Me*—all fueling the emotional arc of the evening.
 
 ### Metallica – MetLife Stadium (M72 Tour, August 6, 2023)  
 The metal giants took a very different structural approach:
