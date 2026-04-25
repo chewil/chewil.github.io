@@ -1,3 +1,12 @@
+---
+title: "The Ultimate Assembly Guide: Building in the FormD T1 v2.1"
+date: 2026-04-24T23:26:00Z
+draft: false
+tags: ["hugo", "github pages", "formd"]
+categories: ["diy", "case-assembly"]
+summary: "A complete guide to setting up a Small Form Factor (SFF)."
+---
+
 # The Ultimate Assembly Guide: Building in the FormD T1 v2.1
 
 Setting up a Small Form Factor (SFF) case like the [FormD T1 v2.1](https://formdt1.com/products/t1black) is more of a "mechanical project" than a standard PC build. Because the case arrives in flat-packed pieces, you have to assemble the chassis itself before you even start putting your PC parts inside.
